@@ -1,0 +1,18 @@
+export const GET_USERS = 'GET_USERS'
+export const DELETE_USERS = 'DELETE_USERS'
+export const LOGIN_USER = 'LOGIN_USER'
+export const LOGOUT_USER = 'LOGOUT_USER'
+
+export const GET_CENTERS = 'GET_CENTERS'
+export const DELETE_CENTERS = 'DELETE_CENTERS'
+export const ADD_CENTERS = "ADD_CENTERS"
+export const GET_CENTER = "GET_CENTER"
+
+export const GET_APPOINTMENTS = 'GET_APPOINTMENTS'
+export const SET_APPOINTMENTS = 'SET_APPOINTMENTS'
+
+export const GET_VACCINES = 'GET_VACCINES'
+export const ADD_VACCINE = 'ADD_VACCINE'
+
+
+
